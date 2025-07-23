@@ -18,7 +18,10 @@
 <img width="1502" height="989" alt="image" src="https://github.com/user-attachments/assets/b08e659f-a347-42d6-9cad-a955b400cc6e" />
 效果预览，其余的也是如此
 4，操作演示（PCA）
+点击“启动PCA”，然后选择自己的“train”（训练集文件）
 <img width="1757" height="997" alt="image" src="https://github.com/user-attachments/assets/8506fa6b-751b-4445-95fd-803961b652cb" />
+当完成对训练集的计算，得到平均脸时，会再次弹出弹窗，此时点击自己的“test”（测试集文件）
+<img width="1756" height="992" alt="image" src="https://github.com/user-attachments/assets/1467ed73-02b5-4a04-b1fa-eda7c5cafffb" />
 
 
 
