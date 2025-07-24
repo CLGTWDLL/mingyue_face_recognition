@@ -56,6 +56,20 @@
 <img width="1502" height="989" alt="image" src="https://github.com/user-attachments/assets/16ffb55a-52a9-45b0-9a8d-1406b150463a" />
 训练得到SVM模型会默认存储在该app所在的文件夹下，此模型可用于摄像头实时识别
 <img width="1285" height="584" alt="image" src="https://github.com/user-attachments/assets/8709c523-0337-4597-824b-63823379faaa" />
+五，操作演示（创意小功能）
+点击“加载文件”
+<img width="1502" height="989" alt="image" src="https://github.com/user-attachments/assets/9f6c1502-6797-43de-a373-29574ac0c9ce" />
+选择一张图片，点击“打开”
+<img width="1902" height="994" alt="image" src="https://github.com/user-attachments/assets/49c5cb91-e6aa-4808-9ca3-0c979dd54551" />
+<img width="1502" height="989" alt="image" src="https://github.com/user-attachments/assets/42ec9a3f-18d4-4dad-ad3c-408879b235c8" />
+在“想说的”处输入文本
+<img width="1502" height="989" alt="image" src="https://github.com/user-attachments/assets/d8f0a520-df6d-4827-a206-2a7b6b36cf29" />
+随后再点击“创意小功能”，会有好玩的事情发生
+
+
+
+
+
 
 
 
