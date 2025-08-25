@@ -6,13 +6,13 @@
 3，作者原本的测试集和训练集和训练SVM模型的数据均采用的是班里同学的人脸，为了保护他们的隐私，本仓库里的测试集和训练集是从网上下载的
 使用前需要做的：
 1.将图片中的路径改为自己的路径用来存放经过APP第一页图像处理部分处理后的文件
-<img width="717" height="230" alt="image" src="https://github.com/user-attachments/assets/edd55a1f-195b-47d4-82ac-e6b9d3956389" />
+<img width="717" height="230" alt="image" src="https://github.com/user-attachments/assets/edd55a1f-195b-47d4-82ac-e6b9d3956389" />  
 2.将图片中的路径改为自己下载下来后的自己的“创意小功能图片”的路径
-<img width="981" height="344" alt="image" src="https://github.com/user-attachments/assets/185e5920-68cb-42bc-a771-7ad90886be36" />
+<img width="981" height="344" alt="image" src="https://github.com/user-attachments/assets/185e5920-68cb-42bc-a771-7ad90886be36" />  
 3.图中的音乐创意小功能中要用，请将图片中的路径改为自己下载下来后的自己的“音乐文件”的路径（该部分和上一张图片里的都在同一个回调下）
-<img width="902" height="285" alt="image" src="https://github.com/user-attachments/assets/b695d3ce-e789-4fd0-8885-a0eabe65842c" />
+<img width="902" height="285" alt="image" src="https://github.com/user-attachments/assets/b695d3ce-e789-4fd0-8885-a0eabe65842c" />  
 4.在这里将训练svm要用到的训练集换成自己训练集的地址（模型训练的部分在app中有）注意，此处的训练集应该是被一个大文件夹存储的。代码的回调写的是读取文件夹下的文件夹
-<img width="1055" height="305" alt="image" src="https://github.com/user-attachments/assets/2d5c85e4-9495-4005-99e8-b9ded435420f" />
+<img width="1055" height="305" alt="image" src="https://github.com/user-attachments/assets/2d5c85e4-9495-4005-99e8-b9ded435420f" />  
 <img width="1880" height="997" alt="image" src="https://github.com/user-attachments/assets/f21b7622-b7d7-4b48-a8ad-70f91107ab57" />
 
 一，操作演示（图像处理）
