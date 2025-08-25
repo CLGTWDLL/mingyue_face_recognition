@@ -1,8 +1,6 @@
 重庆大学24级明月科创实验班线性代数课程项目。人脸识别部分使用了PCA和SVM，PCA部分使用了小矩阵技巧和大矩阵特征向量转换以提高准确率。  
-
 在此感谢 [@icebear-yy](https://github.com/icebear-yy)对svm模块的贡献。他调出来的SVM模型非常好用，在项目测试时的实时识别部分发挥了巨大作用  
-
-同时感谢[@bravezmz](https://github.com/bravezmz)对APP页面的设计，没有他就没有这么有艺术性的APP页面
+同时感谢[@bravezmz](https://github.com/bravezmz)对APP页面的设计，没有他就没有这么有艺术性的APP页面  
 操作说明：1，使用前下载MATLAB Support Package for USB Webcams工具箱，否则无法正常使用摄像头
 2，更改路径（在代码视图中修改回调函数）
 3，作者原本的测试集和训练集和训练SVM模型的数据均采用的是班里同学的人脸，为了保护他们的隐私，本仓库里的测试集和训练集是从网上下载的
