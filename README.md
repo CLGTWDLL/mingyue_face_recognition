@@ -3,7 +3,7 @@
 同时感谢[@bravezmz](https://github.com/bravezmz)对APP页面的设计，没有他就没有这么有艺术性的APP页面  
 操作说明：1，使用前下载MATLAB Support Package for USB Webcams工具箱，否则无法正常使用摄像头  
 2，更改路径（在代码视图中修改回调函数）  
-3，作者原本的测试集和训练集和训练SVM模型的数据均采用的是班里同学的人脸，为了保护他们的隐私，本仓库里的测试集和训练集是从网上下载的
+3，作者原本的测试集和训练集和训练SVM模型的数据均采用的是班里同学的人脸，为了保护他们的隐私，本仓库里的测试集和训练集是从网上下载的  
 使用前需要做的：
 1.将图片中的路径改为自己的路径用来存放经过APP第一页图像处理部分处理后的文件
 <img width="717" height="230" alt="image" src="https://github.com/user-attachments/assets/edd55a1f-195b-47d4-82ac-e6b9d3956389" />  
